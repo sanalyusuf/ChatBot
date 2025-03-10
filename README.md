@@ -13,6 +13,7 @@ This is a Kotlin-based Android chatbot application that integrates the Gemini AP
 * Kotlin
 * Android Studio
 * Jetpack Compose
+
 * Gemini API Android SDK
 
 ## Getting Started
